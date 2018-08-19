@@ -24,7 +24,7 @@ The modified CIM demonstrates improved discrimination in characterizing contact 
   - Functions for Medical Statistics Book (fmsb)
 
 # License
-Only simulation action potential data from the sciatic nerve finite element model is included. EMG-generated noise models and *in vivo* data is proprietary and not included in the repository (as is the corresponding code/analysis). 
+Only results from the *noise-within the contact* case (i.e. white Gaussian noise) are included. Results from EMG-generated noise models and *in vivo* data is proprietary and not included in the resporitory (as is the corresponding code/analysis). The Finite Element Model of rat sciatic nerve is also not included, as well as the simulated action potentials.
 
 By committing your code to the Neural Interface repository you agree to release it under the [GPL-3.0 License](LICENSE).
 
