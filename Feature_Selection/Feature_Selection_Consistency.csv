@@ -1,0 +1,51 @@
+Top 50% at -10dB,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRI_8,,,,TRI_16,,,,TRI_24,,,,TRI_32,,,,TRI_40,,,,TRI_AVERAGE,,,,,,
+Chi2,Mutual Information,1,,Chi2,Mutual Information,0.875,,Chi2,Mutual Information,1,,Chi2,Mutual Information,0.875,,Chi2,Mutual Information,0.85,,Chi2,Mutual Information,0.92,,,,
+Chi2,Nagelkerke Drop,0.25,,Chi2,Nagelkerke Drop,0.25,,Chi2,Nagelkerke Drop,0.25,,Chi2,Nagelkerke Drop,0.4375,,Chi2,Nagelkerke Drop,0.55,,Chi2,Nagelkerke Drop,0.3475,,,,
+Mutual Information,Nagelkerke Drop,0.25,,Mutual Information,Nagelkerke Drop,0.375,,Mutual Information,Nagelkerke Drop,0.25,,Mutual Information,Nagelkerke Drop,0.5,,Mutual Information,Nagelkerke Drop,0.5,,Mutual Information,Nagelkerke Drop,0.375,,,,
+Chi2,RIDGE,1,,Chi2,RIDGE,0.375,,Chi2,RIDGE,0.666666666667,,Chi2,RIDGE,0.75,,Chi2,RIDGE,0.75,,Chi2,RIDGE,0.7083333333334,,,,
+Mutual Information,RIDGE,1,,Mutual Information,RIDGE,0.25,,Mutual Information,RIDGE,0.666666666667,,Mutual Information,RIDGE,0.8125,,Mutual Information,RIDGE,0.8,,Mutual Information,RIDGE,0.7058333333334,,,,
+Nagelkerke Drop,RIDGE,0.25,,Nagelkerke Drop,RIDGE,0.625,,Nagelkerke Drop,RIDGE,0.416666666667,,Nagelkerke Drop,RIDGE,0.4375,,Nagelkerke Drop,RIDGE,0.4,,Nagelkerke Drop,RIDGE,0.4258333333334,,,,
+Chi2,Forests,1,,Chi2,Forests,0.875,,Chi2,Forests,0.666666666667,,Chi2,Forests,0.875,,Chi2,Forests,0.8,,Chi2,Forests,0.8433333333334,,,,
+Mutual Information,Forests,1,,Mutual Information,Forests,1,,Mutual Information,Forests,0.666666666667,,Mutual Information,Forests,0.875,,Mutual Information,Forests,0.9,,Mutual Information,Forests,0.8883333333334,,,,
+Nagelkerke Drop,Forests,0.25,,Nagelkerke Drop,Forests,0.375,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.425,,,,
+RIDGE,Forests,1,,RIDGE,Forests,0.25,,RIDGE,Forests,0.833333333333,,RIDGE,Forests,0.75,,RIDGE,Forests,0.85,,RIDGE,Forests,0.7366666666666,,,,
+Chi2,SVM,0.75,,Chi2,SVM,0.75,,Chi2,SVM,0.583333333333,,Chi2,SVM,0.625,,Chi2,SVM,0.65,,Chi2,SVM,0.6716666666666,,,,
+Mutual Information,SVM,0.75,,Mutual Information,SVM,0.75,,Mutual Information,SVM,0.583333333333,,Mutual Information,SVM,0.625,,Mutual Information,SVM,0.8,,Mutual Information,SVM,0.7016666666666,,,,
+Nagelkerke Drop,SVM,0.25,,Nagelkerke Drop,SVM,0.5,,Nagelkerke Drop,SVM,0.583333333333,,Nagelkerke Drop,SVM,0.5625,,Nagelkerke Drop,SVM,0.6,,Nagelkerke Drop,SVM,0.4991666666666,,,,
+RIDGE,SVM,0.75,,RIDGE,SVM,0.5,,RIDGE,SVM,0.75,,RIDGE,SVM,0.75,,RIDGE,SVM,0.75,,RIDGE,SVM,0.7,,,,
+Forests,SVM,0.75,,Forests,SVM,0.75,,Forests,SVM,0.75,,Forests,SVM,0.625,,Forests,SVM,0.8,,Forests,SVM,0.735,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+COM_8,,,,COM_16,,,,COM_24,,,,COM_32,,,,COM_40,,,,COM_AVERAGE,,,,REF_AVERAGE,,
+Chi2,Mutual Information,1,,Chi2,Mutual Information,1,,Chi2,Mutual Information,0.916666666667,,Chi2,Mutual Information,1,,Chi2,Mutual Information,0.9,,Chi2,Mutual Information,0.9633333333334,,Chi2,Mutual Information,0.9502777777778
+Chi2,Nagelkerke Drop,0.25,,Chi2,Nagelkerke Drop,0.5,,Chi2,Nagelkerke Drop,0.416666666667,,Chi2,Nagelkerke Drop,0.5,,Chi2,Nagelkerke Drop,0.55,,Chi2,Nagelkerke Drop,0.4433333333334,,Chi2,Nagelkerke Drop,0.426944444444467
+Mutual Information,Nagelkerke Drop,0.25,,Mutual Information,Nagelkerke Drop,0.5,,Mutual Information,Nagelkerke Drop,0.333333333333,,Mutual Information,Nagelkerke Drop,0.5,,Mutual Information,Nagelkerke Drop,0.5,,Mutual Information,Nagelkerke Drop,0.4166666666666,,Mutual Information,Nagelkerke Drop,0.431388888888867
+Chi2,RIDGE,1,,Chi2,RIDGE,0.5,,Chi2,RIDGE,0.833333333333,,Chi2,RIDGE,0.75,,Chi2,RIDGE,0.6,,Chi2,RIDGE,0.7366666666666,,Chi2,RIDGE,0.7147222222222
+Mutual Information,RIDGE,1,,Mutual Information,RIDGE,0.5,,Mutual Information,RIDGE,0.833333333333,,Mutual Information,RIDGE,0.75,,Mutual Information,RIDGE,0.6,,Mutual Information,RIDGE,0.7366666666666,,Mutual Information,RIDGE,0.713888888888867
+Nagelkerke Drop,RIDGE,0.25,,Nagelkerke Drop,RIDGE,0.5,,Nagelkerke Drop,RIDGE,0.416666666667,,Nagelkerke Drop,RIDGE,0.5,,Nagelkerke Drop,RIDGE,0.5,,Nagelkerke Drop,RIDGE,0.4333333333334,,Nagelkerke Drop,RIDGE,0.429722222222267
+Chi2,Forests,1,,Chi2,Forests,1,,Chi2,Forests,1,,Chi2,Forests,1,,Chi2,Forests,0.9,,Chi2,Forests,0.98,,Chi2,Forests,0.934444444444467
+Mutual Information,Forests,1,,Mutual Information,Forests,1,,Mutual Information,Forests,0.916666666667,,Mutual Information,Forests,1,,Mutual Information,Forests,1,,Mutual Information,Forests,0.9833333333334,,Mutual Information,Forests,0.9530555555556
+Nagelkerke Drop,Forests,0.25,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.416666666667,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.4333333333334,,Nagelkerke Drop,Forests,0.449444444444467
+RIDGE,Forests,1,,RIDGE,Forests,0.5,,RIDGE,Forests,0.833333333333,,RIDGE,Forests,0.75,,RIDGE,Forests,0.6,,RIDGE,Forests,0.7366666666666,,RIDGE,Forests,0.7241666666666
+Chi2,SVM,1,,Chi2,SVM,1,,Chi2,SVM,0.583333333333,,Chi2,SVM,0.5,,Chi2,SVM,0.65,,Chi2,SVM,0.7466666666666,,Chi2,SVM,0.738611111111067
+Mutual Information,SVM,1,,Mutual Information,SVM,1,,Mutual Information,SVM,0.583333333333,,Mutual Information,SVM,0.5,,Mutual Information,SVM,0.6,,Mutual Information,SVM,0.7366666666666,,Mutual Information,SVM,0.741111111111067
+Nagelkerke Drop,SVM,0.25,,Nagelkerke Drop,SVM,0.5,,Nagelkerke Drop,SVM,0.416666666667,,Nagelkerke Drop,SVM,0.5625,,Nagelkerke Drop,SVM,0.5,,Nagelkerke Drop,SVM,0.4458333333334,,Nagelkerke Drop,SVM,0.4702777777778
+RIDGE,SVM,1,,RIDGE,SVM,0.5,,RIDGE,SVM,0.583333333333,,RIDGE,SVM,0.5,,RIDGE,SVM,0.55,,RIDGE,SVM,0.6266666666666,,RIDGE,SVM,0.668055555555533
+Forests,SVM,1,,Forests,SVM,1,,Forests,SVM,0.583333333333,,Forests,SVM,0.5,,Forests,SVM,0.6,,Forests,SVM,0.7366666666666,,Forests,SVM,0.756388888888867
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSD_8,,,,PSD_24,,,,PSD_24,,,,PSD_32,,,,PSD_40,,,,PSD_AVERAGE,,,,,,
+Chi2,Mutual Information,1,,Chi2,Mutual Information,1,,Chi2,Mutual Information,1,,Chi2,Mutual Information,0.9375,,Chi2,Mutual Information,0.9,,Chi2,Mutual Information,0.9675,,,,
+Chi2,Nagelkerke Drop,0.25,,Chi2,Nagelkerke Drop,0.75,,Chi2,Nagelkerke Drop,0.5,,Chi2,Nagelkerke Drop,0.5,,Chi2,Nagelkerke Drop,0.45,,Chi2,Nagelkerke Drop,0.49,,,,
+Mutual Information,Nagelkerke Drop,0.25,,Mutual Information,Nagelkerke Drop,0.75,,Mutual Information,Nagelkerke Drop,0.5,,Mutual Information,Nagelkerke Drop,0.5625,,Mutual Information,Nagelkerke Drop,0.45,,Mutual Information,Nagelkerke Drop,0.5025,,,,
+Chi2,RIDGE,1,,Chi2,RIDGE,0.25,,Chi2,RIDGE,0.833333333333,,Chi2,RIDGE,0.8125,,Chi2,RIDGE,0.6,,Chi2,RIDGE,0.6991666666666,,,,
+Mutual Information,RIDGE,1,,Mutual Information,RIDGE,0.25,,Mutual Information,RIDGE,0.833333333333,,Mutual Information,RIDGE,0.8125,,Mutual Information,RIDGE,0.6,,Mutual Information,RIDGE,0.6991666666666,,,,
+Nagelkerke Drop,RIDGE,0.25,,Nagelkerke Drop,RIDGE,0.5,,Nagelkerke Drop,RIDGE,0.5,,Nagelkerke Drop,RIDGE,0.5,,Nagelkerke Drop,RIDGE,0.4,,Nagelkerke Drop,RIDGE,0.43,,,,
+Chi2,Forests,1,,Chi2,Forests,1,,Chi2,Forests,1,,Chi2,Forests,1,,Chi2,Forests,0.9,,Chi2,Forests,0.98,,,,
+Mutual Information,Forests,1,,Mutual Information,Forests,1,,Mutual Information,Forests,1,,Mutual Information,Forests,0.9375,,Mutual Information,Forests,1,,Mutual Information,Forests,0.9875,,,,
+Nagelkerke Drop,Forests,0.25,,Nagelkerke Drop,Forests,0.75,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.5,,Nagelkerke Drop,Forests,0.45,,Nagelkerke Drop,Forests,0.49,,,,
+RIDGE,Forests,1,,RIDGE,Forests,0.25,,RIDGE,Forests,0.833333333333,,RIDGE,Forests,0.8125,,RIDGE,Forests,0.6,,RIDGE,Forests,0.6991666666666,,,,
+Chi2,SVM,1,,Chi2,SVM,1,,Chi2,SVM,0.75,,Chi2,SVM,0.6875,,Chi2,SVM,0.55,,Chi2,SVM,0.7975,,,,
+Mutual Information,SVM,1,,Mutual Information,SVM,1,,Mutual Information,SVM,0.75,,Mutual Information,SVM,0.625,,Mutual Information,SVM,0.55,,Mutual Information,SVM,0.785,,,,
+Nagelkerke Drop,SVM,0.25,,Nagelkerke Drop,SVM,0.75,,Nagelkerke Drop,SVM,0.416666666667,,Nagelkerke Drop,SVM,0.5625,,Nagelkerke Drop,SVM,0.35,,Nagelkerke Drop,SVM,0.4658333333334,,,,
+RIDGE,SVM,1,,RIDGE,SVM,0.25,,RIDGE,SVM,0.75,,RIDGE,SVM,0.6875,,RIDGE,SVM,0.7,,RIDGE,SVM,0.6775,,,,
+Forests,SVM,1,,Forests,SVM,1,,Forests,SVM,0.75,,Forests,SVM,0.6875,,Forests,SVM,0.55,,Forests,SVM,0.7975,,,,
