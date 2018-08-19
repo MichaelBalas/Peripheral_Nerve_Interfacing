@@ -5,7 +5,7 @@ In this study, we improved the previously defined Contact Information Metric (CI
 
 The modified CIM demonstrates improved discrimination in characterizing contact importance and shows consistent results with feature selection-based rankings. This work will provide a valuable tool for optimizing our ability to extract information from neural activity, and to enable finer control of assistive technologies.
  
-###### A more intuitive infographic is provided [here](https://github.com/MichaelBalas/Neural_Interface/Poster.pdf). 
+###### A more intuitive infographic is provided [here](Poster.pdf). 
 
 # Authors
 ##### Michael Balas
@@ -26,7 +26,7 @@ The modified CIM demonstrates improved discrimination in characterizing contact 
 # License
 Only simulation action potential data from the sciatic nerve finite element model is included. EMG-generated noise models and *in vivo* data is proprietary and not included in the repository (as is the corresponding code/analysis). 
 
-By committing your code to the Neural Interface repository you agree to release it under the [GPL-3.0 License](https://github.com/MichaelBalas/Neural_Interface/blob/master/LICENSE).
+By committing your code to the Neural Interface repository you agree to release it under the [GPL-3.0 License](LICENSE).
 
 
 
